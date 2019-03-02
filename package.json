@@ -3,7 +3,7 @@
     "name": "startbootstrap-resume",
     "version": "5.0.4",
     "scripts": {
-        "start": "node app",
+        "start": "node app"
         //"postinstall": "gulp watch"
     },
     "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
